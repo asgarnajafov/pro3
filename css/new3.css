@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* logo */
+header{
+    height: 70px;
+    width: 96%;
+    margin: auto;
+    padding: auto;
+    margin-top: 10px;
+    background-color: brown;
+}
+header img{
+    height: 60px;
+    width: 60px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+/* section */
+section{}
+section aside{
+    height: 550px;
+    width: 29%;
+    background-color: blueviolet;
+    float: left;
+    margin-left: 2%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+section .banner{
+    height: 120px;
+    width: 66%;
+    background-color: orangered;
+    float: right;
+    margin-right: 2%;
+    margin-top: 15px;
+}
+section .body{
+    height: 415px;
+    width: 66%;
+    background-color: rgb(255, 8, 0);
+    float: right;
+    margin-right: 2%;
+    margin-top: 15px;
+}
+/* footer */
+footer{
+    height: 50px;
+    width: 96%;
+    background-color: gray;
+    margin-top: 0px;
+    margin-left: 2%;
+    clear: both;
+}
